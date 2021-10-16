@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/wattsapp_clone/static/css/main.f19f9f9f.chunk.css",
+    "main.js": "/wattsapp_clone/static/js/main.08384e70.chunk.js",
+    "main.js.map": "/wattsapp_clone/static/js/main.08384e70.chunk.js.map",
+    "runtime-main.js": "/wattsapp_clone/static/js/runtime-main.f075d017.js",
+    "runtime-main.js.map": "/wattsapp_clone/static/js/runtime-main.f075d017.js.map",
+    "static/js/2.56f59acc.chunk.js": "/wattsapp_clone/static/js/2.56f59acc.chunk.js",
+    "static/js/2.56f59acc.chunk.js.map": "/wattsapp_clone/static/js/2.56f59acc.chunk.js.map",
+    "index.html": "/wattsapp_clone/index.html",
+    "static/css/main.f19f9f9f.chunk.css.map": "/wattsapp_clone/static/css/main.f19f9f9f.chunk.css.map",
+    "static/js/2.56f59acc.chunk.js.LICENSE.txt": "/wattsapp_clone/static/js/2.56f59acc.chunk.js.LICENSE.txt",
+    "static/media/avatar.da97ffb2.jpg": "/wattsapp_clone/static/media/avatar.da97ffb2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f075d017.js",
+    "static/js/2.56f59acc.chunk.js",
+    "static/css/main.f19f9f9f.chunk.css",
+    "static/js/main.08384e70.chunk.js"
+  ]
+}
